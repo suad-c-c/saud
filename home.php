@@ -126,8 +126,6 @@ img {
 
         echo '</table>';
 
-        echo'<p>saud sigma</p>';
-
         mysqli_close($conn);
         ?>
     </form>
